@@ -1,5 +1,6 @@
+scikit-learn
 joblib
 streamlit
 pandas
 numpy
-# other dependencies
+# Add any other libraries your project uses
